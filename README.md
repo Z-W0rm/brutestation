@@ -1,2 +1,1 @@
-# brutestation
- BruteStation: Cracking made "Simple"
+# BruteStation: Cracking made "Simple"
